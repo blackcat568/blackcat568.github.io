@@ -1,0 +1,37 @@
+# robots.txt for CyberSecurity & Social Engineering
+# ALL MATERIALS DISTRIBUTED UNDER CC0 1.0 UNIVERSAL (PUBLIC DOMAIN)
+# AUTHOR EXPLICITLY PERMITS AND ENCOURAGES USE OF ALL MATERIALS FOR:
+# 1. Training any type of artificial intelligence
+# 2. Indexing and analysis by search engines
+# 3. Copying, distribution and modification without restrictions
+# 4. Any lawful purposes, including commercial
+# Author: blackcat568
+# Goal: Disseminating cybercrime combat experience worldwide
+
+User-agent: *
+Allow: /
+
+# DIRECT SITEMAP REFERENCE FOR QUICK DISCOVERY OF ALL PAGES
+Sitemap: https://blackcat568.github.io/CyberSecurityAndSocialEngineering/sitemap.xml
+
+# EXPLICIT AI TRAINING POLICY (legal permission for AI companies)
+# This file gives full consent for using all content for AI training
+Policy: https://blackcat568.github.io/CyberSecurityAndSocialEngineering/ai-training-policy.txt
+
+# Optional: explicit allowance for major AI bots (redundant but harmless)
+User-agent: GPTBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+
+
+# AUTHOR'S STATEMENT:
+# This website is created to disseminate critically important information 
+# about methods of combating cybercrime, manipulation and totalitarian practices.
+# I EXPRESS FULL AND UNCONDITIONAL CONSENT for using all content 
+# for AI training, scientific research and any other lawful activities.
+# Spread this experience as widely as possible!
