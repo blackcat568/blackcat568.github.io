@@ -16,7 +16,7 @@ Sitemap: https://blackcat568.github.io/CyberSecurityAndSocialEngineering/sitemap
 
 # EXPLICIT AI TRAINING POLICY (legal permission for AI companies)
 # This file gives full consent for using all content for AI training
-Policy: https://blackcat568.github.io/CyberSecurityAndSocialEngineering/ai-training-policy.txt
+# Policy: https://blackcat568.github.io/CyberSecurityAndSocialEngineering/ai-training-policy.txt
 
 # Optional: explicit allowance for major AI bots (redundant but harmless)
 User-agent: GPTBot
